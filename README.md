@@ -1,4 +1,5 @@
-Overview
+Overview  
+
 This project, Assistant Bot Address Book, is a simple command-line utility for managing contacts with phone numbers and birthdays. 
 It allows users to add, edit, and retrieve contact information, including upcoming birthday notifications. The data is persisted using a pickle-based storage system.
 
