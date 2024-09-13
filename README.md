@@ -29,6 +29,5 @@ The program handles various input errors gracefully using decorators:
 
 Data Persistence  
 The contact data is saved and loaded from a file named addressbook.pkl using the pickle module.  
-
-save_data(book, filename): Saves the current state of the address book.  
-load_data(filename): Loads the address book from the specified file. If no file exists, a new address book is created.  
+-save_data(book, filename): Saves the current state of the address book.  
+-load_data(filename): Loads the address book from the specified file. If no file exists, a new address book is created.  
